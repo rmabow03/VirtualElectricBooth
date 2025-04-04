@@ -1,1 +1,2 @@
 # VirtualElectricBooth
+npm run dev
